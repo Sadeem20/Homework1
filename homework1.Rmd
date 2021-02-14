@@ -28,9 +28,9 @@ library(ggrepel)
 
 (4 points)
 ```{r}
-
+?seattlepets
 ```
-Write your narrative here
+according to using dataset dictionary  i know that no. of rows 52.519 which indicates number of animals
 
 
 
@@ -41,7 +41,7 @@ Write your narrative here
 ```{r}
 
 ```
-Write your narrative below
+
 
 
 `3. Copy the code provided in the homework documentation and paste it here. 
