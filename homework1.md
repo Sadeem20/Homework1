@@ -34,6 +34,12 @@ which indicates number of animals
 
 (4 points)
 
+``` r
+?seattlepets
+```
+
+we have 7 variables
+
 \`3. Copy the code provided in the homework documentation and paste it
 here.
 

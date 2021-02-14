@@ -39,9 +39,9 @@ according to using dataset dictionary  i know that no. of rows 52.519 which indi
 (4 points)
 
 ```{r}
-
+?seattlepets
 ```
-
+we have 7 variables
 
 
 `3. Copy the code provided in the homework documentation and paste it here. 
